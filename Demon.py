@@ -31,7 +31,7 @@ class Demon(object):
     KDD 2012:615-623
     """
 
-    def __init__(self, network_filename, epsilon=0.25, min_community_size=3, file_output=True):
+    def __init__(self, network_filename, epsilon=0.25, min_community_size=3, file_output=True, output_filename='output'):
         """
         Constructor
 
@@ -46,6 +46,7 @@ class Demon(object):
         self.epsilon = epsilon
         self.min_community_size = min_community_size
         self.file_output = file_output
+        self.output_filename = output_filename
 
     @timeit
     def __read_graph(self, network_filename):
@@ -122,7 +123,7 @@ class Demon(object):
             actual += 1
 
         if self.file_output:
-            out_file_com = open("%s.txt" % self.file_output, "w")
+            out_file_com = open("%s.txt" % self.output_filename, "w")
             idc = 0
             for c in all_communities.keys():
                 out_file_com.write("%d\t%s\n" % (idc, str(sorted(c))))
