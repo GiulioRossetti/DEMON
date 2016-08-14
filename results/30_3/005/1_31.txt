@@ -1,0 +1,36 @@
+: SAGRARIO MIELGO|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Guadalupe|Madrid, Teatro de La Zarzuela|Miquel Ortega
+ABEL GARCIA|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Guardia 2º|Madrid, Teatro de La Zarzuela|Miquel Ortega
+ANA RODRIGUEZ|"La Chulapona"|Concha|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+ANA SANTAMARINA|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Lolita|Madrid, Teatro de La Zarzuela|Miquel Ortega
+ANTONIO GANDIA|"La Chulapona"|"La Traviata"|-|Alfredo Germont|Arena Sferisterio di Macerata|Federico Moreno Torroba|Gerardo Malla|Giuseppe Verdi|Henning Brockhaus|José</em> <em>María|Madrid, Teatro de La Zarzuela|María|Miquel Ortega
+CALOS DURAN|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Zapatero
+CARLOS CROOKE|"La Chulapona"|Dios|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+CHARO REINA|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Venustiana
+CRISTINA FAUS|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Gran Teatre del Liceu di Barcelona|Josep Pons|Madrid, Teatro de La Zarzuela|Manuela|Miquel Ortega|Prima Norma|Richard Wagner|Robert Carsen|“Götterdämmerung”
+EVA DURAN|"La Chulapona"|Cantaora|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+GERARDO MALLA|"La Chulapona"|Don</em> <em>Epifanio|Epifanio|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+GUSTAVO BERUETE|"La Chulapona"|Cliente|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+IGNACIO DEL CASTILLO|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Invitado|Madrid, Teatro de La Zarzuela|Miquel Ortega
+ISABEL GONZALES|"La Chulapona"|Ascensión|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+JESUS ALCAIDE|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Organillero/Borracho
+JESUS CASTEJON|"La Chulapona"|Chalina|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+JESUS LANDIN|"La Chulapona"|Durmiente|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+JOSE' MARIA MOLERO|"El amor brujo" e "La vida breve"|"La Chulapona"|Chitarrisit|Federico Moreno Torroba|Gerardo Malla|Guillermo García Calvo|Guitarrista|Herbert Wernicke|Madrid, Teatro de La Zarzuela|Madrid, Teatro de la Zarzuela|Manuel De Falla|Miquel Ortega
+JUAN RUEDA|"La Chulapona"|Cansino|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Maestro</em> <em>Cansino|Miquel Ortega
+KENI ROLDAN|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Guardia 1º|Madrid, Teatro de La Zarzuela|Miquel Ortega
+LUIS ÁLVAREZ|"La Chulapona"|Antonio|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Señor</em> <em>Antonio
+MARIA BRIONES|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Maravilla|Miquel Ortega
+NERIC FORCADA|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Manolito|Miquel Ortega
+PALOMA CURROS|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|ROSA Mª GUTIERREZ, CARMEN GAVIRIA
+PALOMA SUAREZ|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Voz</em> <em>interna
+PEDRO AZPIRI|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Hojalatero|Madrid, Teatro de La Zarzuela|Miquel Ortega
+PEDRO DE LA TORRE|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Manolito|Miquel Ortega
+RAQUEL TORRES|"La Chulapona"|Emilia|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+RAUL RUIZ|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Manolito|Miquel Ortega
+SATURNINO GARCIA|"La Chulapona"|Federico Moreno Torroba|Ganadero|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+SUSANA CORDON|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Rosario
+tag|"La Chulapona"|31
+tag|Miquel Ortega|31
+tag|Gerardo Malla|31
+tag|Federico Moreno Torroba|31
+tag|Madrid, Teatro de La Zarzuela|31

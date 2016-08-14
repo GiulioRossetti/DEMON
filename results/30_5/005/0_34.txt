@@ -1,0 +1,39 @@
+RICARDO BERNAL|"El gato montés"|"La Bohème"|"La Vedova Allegra"|-|Camille De Rossillon|Cristóbal Soler|Federico Tiezzi|Franz Lehar|Giacomo Puccini|Jean-louis Pichon|José Carlos Plaza|Julian Kovatchev|Madrid, Teatro de La Zarzuela|Mark Shanahan|Opéra de Marseille|Rafael|Rodolfo|Verona, Teatro Filarmonico
+ALBERTO RÍOS|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Yansen
+AURORA FRÍAS|"El Trust de los tenorios", "El Puñao de rosas"|Carmen|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela
+BEGOÑA NAVARRO|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Veneciana 2º
+CARLOS DURÁN|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Un carretero
+CARMEN ROMEU|"Ciro in Babilonia"|"El Trust de los tenorios", "El Puñao de rosas"|"Marina"|-|Alberto Zedda|Argene|Cristbal Soler|Cristóbal Soler|Davide Livermore|Elena|Emilio Arrieta|Gioachino Rossini|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Marina|Rosario|Rossini Opera Festival|Veneciana 1ª|Will Crutchfield|lago” chiude ROF|«Come resistere / a tanti affetti!» “La Donna
+CHEMA DE MIGUEL|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|El señó juan|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela
+CIPRIANO LODOSA|"El Trust de los tenorios", "El Puñao de rosas"|Cabrera|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela
+CONCHA DELGADO|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|Isabel|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela
+DANIEL HUERTA|"El Trust de los tenorios", "El Puñao de rosas"|Cazador 1º|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Yon güell
+DAVID MARTÍN|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Máscara
+ENCARNA PIEDRABUENA|"El Trust de los tenorios", "El Puñao de rosas"|Camarera 2ª|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela
+GRACIELA MONCLOA|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Rama-kana
+IVÁN LUÍS|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Sirka
+JOSÉ ANTONIO COBIÁN|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|Gondolero|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela
+JOSÉ LUIS PATIÑO|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|José antonio|Luis Olmos|Madrid, Teatro de la Zarzuela|Saboya
+JUAN VIADAS|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|Frasquito|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Randilla
+JULIA ARELLANO|"El Trust de los tenorios", "El Puñao de rosas"|"El amor brujo" e "La vida breve"|Cristóbal Soler|Guillermo García Calvo|Herbert Wernicke|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Manuel De Falla|Socorro|Vendedora tercera
+JULIO MORALES|"El Trust de los tenorios", "El Puñao de rosas"|Arturo / baturro|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Tarugo
+LUIS E. GONZÁLEZ|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Máscara
+LUIS ROMERO|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|El maître d’hotel|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela
+MARCO MONCLOA|"El Trust de los tenorios", "El Puñao de rosas"|"Marina"|-|Cristbal Soler|Cristóbal Soler|Emilio Arrieta|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Pascual|Pepe
+ROBERTO DA SILVA|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Mozo 1º|Máscara 1ª
+ROMÁN FERNÁNDEZ-CAÑADAS|"El Trust de los tenorios", "El Puñao de rosas"|"El gato montés"|-|Bructon|Cristóbal Soler|José Carlos Plaza|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de La Zarzuela|Madrid, Teatro de la Zarzuela|Pezuño
+SONIA CASTILLA|"El Trust de los tenorios", "El Puñao de rosas"|Camarera 1ª|Cristóbal Soler|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela
+VIRGINIA FLORES|"El Trust de los tenorios", "El Puñao de rosas"|Cristóbal Soler|José Serrano,Ruperto Chapí|La bella cucú|Luis Olmos|Madrid, Teatro de la Zarzuela
+ARTURO PASTOR|"El gato montés"|-|Cristóbal Soler|Hormigón|José Carlos Plaza|Madrid, Teatro de La Zarzuela
+ENRIQUE BAQUERIZO|"El amor brujo" e "La vida breve"|"El gato montés"|-|Cristóbal Soler|El tío Sarvaor|Guillermo García Calvo|Herbert Wernicke|José Carlos Plaza|Madrid, Teatro de La Zarzuela|Madrid, Teatro de la Zarzuela|Manuel De Falla|Padre Antón
+JOSÉ JULIÁN FRONTAL|"El gato montés"|-|Cristóbal Soler|José Carlos Plaza|Juanillo</em> <em>“El Gato Montés”|Madrid, Teatro de La Zarzuela
+MARIO VILLORIA|"El gato montés"|-|Cristóbal Soler|José Carlos Plaza|Madrid, Teatro de La Zarzuela|Recalcao
+MILAGROS MARTÍN|"El gato montés"|-|Cristóbal Soler|Frasquita|José Carlos Plaza|Madrid, Teatro de La Zarzuela
+MILAGROS POBLADOR|"El amor brujo" e "La vida breve"|"El gato montés"|-|Cristóbal Soler|Guillermo García Calvo|Herbert Wernicke|José Carlos Plaza|Madrid, Teatro de La Zarzuela|Madrid, Teatro de la Zarzuela|Manuel De Falla|Pastorcillo|Vendedora primera
+RODRIGO GARCÍA|"El gato montés"|-|Caireles|Cristóbal Soler|José Carlos Plaza|Madrid, Teatro de La Zarzuela
+SAIOA HERNÁNDEZ|"El gato montés"|-|Cristóbal Soler|José Carlos Plaza|Madrid, Teatro de La Zarzuela|Soleá
+tag|Cristóbal Soler|34
+tag|Madrid, Teatro de la Zarzuela|27
+tag|Luis Olmos|25
+tag|"El Trust de los tenorios", "El Puñao de rosas"|25
+tag|José Serrano,Ruperto Chapí|25
