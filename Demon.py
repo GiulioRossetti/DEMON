@@ -2,6 +2,7 @@ import networkx as nx
 import random
 import time
 import sys
+import matplotlib.pyplot as plt
 
 __author__ = "Giulio Rossetti"
 __contact__ = "giulio.rossetti@isti.cnr.it"
@@ -31,7 +32,7 @@ class Demon(object):
     KDD 2012:615-623
     """
 
-    def __init__(self, network_filename, epsilon=0.25, min_community_size=3, file_output=True):
+    def __init__(self, network_filename, epsilon=0.25, min_community_size=3, file_output=True, output_filename='output'):
         """
         Constructor
 
@@ -46,6 +47,7 @@ class Demon(object):
         self.epsilon = epsilon
         self.min_community_size = min_community_size
         self.file_output = file_output
+        self.output_filename = output_filename
 
     @timeit
     def __read_graph(self, network_filename):
@@ -61,7 +63,7 @@ class Demon(object):
 
         for l in f:
             try:
-                l = map(int, l.rstrip().replace("\t", ",").replace(" ", ",").split(",")[:2])
+                l = map(int, l.rstrip().replace("\t", ";").replace(" ", ";").split(";")[:2])
                 self.g.add_edge(l[0], l[1])
             except ValueError:
                 pass
@@ -122,7 +124,7 @@ class Demon(object):
             actual += 1
 
         if self.file_output:
-            out_file_com = open("%s.txt" % self.file_output, "w")
+            out_file_com = open("%s.txt" % self.output_filename, "w")
             idc = 0
             for c in all_communities.keys():
                 out_file_com.write("%d\t%s\n" % (idc, str(sorted(c))))
@@ -131,6 +133,7 @@ class Demon(object):
             out_file_com.close()
         else:
             return all_communities
+        self.plot(all_communities)
 
     @staticmethod
     def __overlapping_label_propagation(ego_minus_ego, ego, max_iteration=10):
@@ -282,27 +285,57 @@ class Demon(object):
             return union
         return None
 
-if __name__ == "__main__":
-    import argparse
+    def plot(self, all_communities):
+        try:
+            pos = nx.nx_agraph.graphviz_layout(self.g)
+        except:
+            pos = nx.spring_layout(self.g, iterations=20)
+        node_color = 'grey'
+        colors = ['yellow', 'blue', 'green', 'red', 'orange', 'brown', 'black']
+        count = 0
+        plt.rcParams['text.usetex'] = False
+        plt.figure(figsize=(20, 20))
+        plt.axis('off')
+        for list_nodes in all_communities.keys():
+            if count < len(colors):
+                node_color = colors[count]
+            print node_color
+            nx.draw_networkx_nodes(self.g, pos, list_nodes, alpha=0.5, node_size=20,
+                                   node_color=node_color)
+            if len(list_nodes) > 1:
+                list_edges = [(u, v) for (u, v) in self.g.edges()
+                              if u in list_nodes and v in list_nodes]
 
-    print "-------------------------------------"
-    print "              {DEMON}                "
-    print "     Democratic Estimate of the      "
-    print "  Modular Organization of a Network  "
-    print "-------------------------------------"
-    print "Author: ", __author__
-    print "Email:  ", __contact__
-    print "------------------------------------\n"
+                nx.draw_networkx_edges(self.g, pos, list_edges, alpha=0.5, node_size=0, width=0.1, edge_color=node_color)
+            count += 1
 
-    parser = argparse.ArgumentParser()
+        plt.savefig('{}_{}.png'.format(self.output_filename, count), dpi=75, transparent=False)
+        plt.close()
 
-    parser.add_argument('network_file', type=str, help='network file (edge list format)')
-    parser.add_argument('epsilon', type=float, help='merging threshold')
-    parser.add_argument('-c', '--min_com_size', type=int, help='minimum community size', default=3)
-    parser.add_argument('-o', '--out_file', type=str, help='output file', default="demon_coms.txt")
+# if __name__ == "__main__":
+#     import argparse
+#
+#     print "-------------------------------------"
+#     print "              {DEMON}                "
+#     print "     Democratic Estimate of the      "
+#     print "  Modular Organization of a Network  "
+#     print "-------------------------------------"
+#     print "Author: ", __author__
+#     print "Email:  ", __contact__
+#     print "------------------------------------\n"
+#
+#     parser = argparse.ArgumentParser()
+#
+#     parser.add_argument('network_file', type=str, help='network file (edge list format)')
+#     parser.add_argument('epsilon', type=float, help='merging threshold')
+#     parser.add_argument('-c', '--min_com_size', type=int, help='minimum community size', default=3)
+#     parser.add_argument('-o', '--out_file', type=str, help='output file', default="demon_coms.txt")
+#
+#     args = parser.parse_args()
+#     dm = Demon(args.network_file, epsilon=args.epsilon,
+#                min_community_size=args.min_com_size, file_output=args.out_file)
+#     dm.execute()
 
-    args = parser.parse_args()
-    dm = Demon(args.network_file, epsilon=args.epsilon,
-               min_community_size=args.min_com_size, file_output=args.out_file)
-    dm.execute()
+
+
 
