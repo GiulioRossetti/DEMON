@@ -1,4 +1,4 @@
-future==0.17.1
+future==0.18.1
 tqdm==4.35.0
 networkx==2.3
 pytest==5.1.2
