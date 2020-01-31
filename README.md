@@ -7,7 +7,7 @@
 [![Updates](https://pyup.io/repos/github/GiulioRossetti/DEMON/shield.svg)](https://pyup.io/repos/github/GiulioRossetti/DEMON/)
 [![BCH compliance](https://bettercodehub.com/edge/badge/GiulioRossetti/DEMON?branch=master)](https://bettercodehub.com/)
 [![DOI](https://zenodo.org/badge/53486170.svg)](https://zenodo.org/badge/latestdoi/53486170)
-
+[![PyPI download month](https://img.shields.io/pypi/dm/demon.svg?color=blue&style=plastic)](https://pypi.python.org/pypi/demon/)
 
 ![DEMON logo](http://www.giuliorossetti.net/about/wp-content/uploads/2013/07/Demon-300x233.png)
 
