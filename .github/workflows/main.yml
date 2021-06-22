@@ -1,16 +1,16 @@
-name: publish_conda
+name: Publish Conda Package
 
-on:
+on: 
   release:
-    types: [published]
-    
+    types: [published, edited]
+
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@master
     - name: publish-to-conda
-      uses: maxibor/conda-package-publish-action@v1.1
+      uses: fcakyon/conda-publish-action@master
       with:
-        subDir: '.'
-        AnacondaToken: ${{ secrets.ANACONDA_TOKEN }}
+        anacondatoken: ${{ secrets.ANACONDA_TOKEN }}
+        platforms: 'win osx linux'
