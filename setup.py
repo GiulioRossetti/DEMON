@@ -15,7 +15,6 @@ setup(name='demon',
       url='https://github.com/GiulioRossetti/DEMON',
       author='Giulio Rossetti',
       author_email='giulio.rossetti@gmail.com',
-      use_2to3=True,
       classifiers=[
           # How mature is this project? Common values are
           #   3 - Alpha
