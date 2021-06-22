@@ -12,6 +12,7 @@ requirements:
     - setuptools
   build:
     - python
+    - setuptools
   run:
     - python>=3.6
     - future==0.17.1
