@@ -12,6 +12,6 @@ jobs:
       - name: Publish Loop Conda
         uses: Loop3D/conda-publish-action@1.0
         with:
-          subdir: "conda"
+          # subdir: "conda"
           anacondatoken: ${{ secrets.ANACONDA_TOKEN }}
           platforms: "win osx linux"
