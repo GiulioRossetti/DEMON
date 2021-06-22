@@ -14,9 +14,8 @@ requirements:
     - python
     - setuptools
   run:
-    - python>=3.6
-    - future==0.17.1
-    - tqdm==4.41.1
+    - python>=3.7
+    - tqdm
     - networkx>=2.4
 
 about:
