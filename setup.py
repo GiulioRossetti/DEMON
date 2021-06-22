@@ -39,6 +39,6 @@ setup(name='demon',
           'Programming Language :: Python :: 3'
       ],
       keywords=['complex-networks', 'community discovery'],
-      install_requires=['networkx>=3.7',  'tqdm', ''],
+      install_requires=['networkx>=2.4',  'tqdm', ''],
       packages=find_packages(exclude=["*.test", "*.test.*", "test.*", "test", "demon.test", "demon.test.*"]),
       )
