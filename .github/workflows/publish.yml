@@ -13,7 +13,7 @@ jobs:
     - name: publish-to-conda
       uses: GiulioRossetti/conda-package-publish-action@v1.1.0
       with:
-        subdir: 'paperino'
+        subdir: 'conda'
         AnacondaToken: ${{ secrets.ANACONDA_TOKEN }}
         platforms: 'all'
         override: true
