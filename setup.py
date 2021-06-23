@@ -7,13 +7,15 @@ __license__ = "BSD-2-Clause"
 __email__ = "giulio.rossetti@gmail.com"
 
 
+here = path.abspath(path.dirname(__file__))
+
 def get_requirements(remove_links=True):
     """
     lists the requirements to install.
     """
 
     # try:
-    with open('requirements.txt') as f:
+    with open(path.join(here, 'requirements.txt')) as f:
         requirements = f.read().splitlines()
     # except Exception as ex:
     #    with open('DecoraterBotUtils.egg-info\requires.txt') as f:
@@ -31,8 +33,6 @@ def get_requirements(remove_links=True):
                 requirements.remove(requirement)
     return requirements
 
-
-here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the README file
 with open(path.join(here, 'README.md'), encoding='utf-8') as f:
