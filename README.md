@@ -14,6 +14,8 @@
 
 Community discovery in complex networks is an interesting problem with a number of applications, especially in the knowledge extraction task in social and information networks. However, many large networks often lack a particular community organization at a global level. In these cases, traditional graph partitioning algorithms fail to let the latent knowledge embedded in modular structure emerge, because they impose a top-down global view of a network. We propose here a simple local-first approach to community discovery, able to unveil the modular organization of real complex networks. This is achieved by democratically letting each node vote for the communities it sees surrounding it in its limited view of the global system, i.e. its ego neighborhood, using a label propagation algorithm; finally, the local communities are merged into a global collection. 
 
+**Note:** Demon has been integrated within [CDlib](http://cdlib.readthedocs.io) a python package dedicated to community detection algorithms, check it out!
+
 ## Citation
 If you use our algorithm please cite the following works:
 
@@ -32,7 +34,12 @@ In order to install the package just download (or clone) the current project and
 
 Alternatively use pip:
 ```bash
-sudo pip install demon
+pip install demon
+```
+
+or conda
+```bash
+conda install -c giuliorossetti demon
 ```
 
 Demon is written in python and requires the following package to run:
