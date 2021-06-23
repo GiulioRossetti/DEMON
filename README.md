@@ -1,11 +1,10 @@
 # DEMON - Overlapping Community Discovery.
 
-[![Build Status](https://travis-ci.org/GiulioRossetti/DEMON.svg?branch=master)](https://travis-ci.org/GiulioRossetti/DEMON)
+[![Test and Coverage (Ubuntu)](https://github.com/GiulioRossetti/DEMON/actions/workflows/test_ubuntu.yml/badge.svg)](https://github.com/GiulioRossetti/DEMON/actions/workflows/test_ubuntu.yml)
 [![Coverage Status](https://coveralls.io/repos/github/GiulioRossetti/DEMON/badge.svg?branch=master)](https://coveralls.io/github/GiulioRossetti/DEMON?branch=master)
 [![pyversions](https://img.shields.io/pypi/pyversions/demon.svg)](https://badge.fury.io/py/DEMON)
 [![PyPI version](https://badge.fury.io/py/demon.svg)](https://badge.fury.io/py/DEMON)
 [![Updates](https://pyup.io/repos/github/GiulioRossetti/DEMON/shield.svg)](https://pyup.io/repos/github/GiulioRossetti/DEMON/)
-[![BCH compliance](https://bettercodehub.com/edge/badge/GiulioRossetti/DEMON?branch=master)](https://bettercodehub.com/)
 [![DOI](https://zenodo.org/badge/53486170.svg)](https://zenodo.org/badge/latestdoi/53486170)
 [![PyPI download month](https://img.shields.io/pypi/dm/demon.svg?color=blue&style=plastic)](https://pypi.python.org/pypi/demon/)
 
