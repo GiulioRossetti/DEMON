@@ -12,12 +12,12 @@ def get_requirements(remove_links=True):
     lists the requirements to install.
     """
 
-    try:
-        with open('requirements.txt') as f:
-            requirements = f.read().splitlines()
-    except Exception as ex:
-        with open('DecoraterBotUtils.egg-info\requires.txt') as f:
-            requirements = f.read().splitlines()
+    # try:
+    with open('requirements.txt') as f:
+        requirements = f.read().splitlines()
+    # except Exception as ex:
+    #    with open('DecoraterBotUtils.egg-info\requires.txt') as f:
+    #        requirements = f.read().splitlines()
     if remove_links:
         for requirement in requirements:
             # git repository url.
